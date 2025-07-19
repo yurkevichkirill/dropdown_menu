@@ -1,3 +1,10 @@
-body {
-  background-color: rebeccapurple;
+.dropdown-menu{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    visibility: hidden;
+}
+
+.visible{
+    visibility: visible;
 }
